@@ -10,7 +10,7 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        <h1>Título é nóis Git Hub... COMMIT no Local!</h1>
+        <h1>Título é nóis Git Hub... COMMIT na nuvem!</h1>
        
         <?php
         
